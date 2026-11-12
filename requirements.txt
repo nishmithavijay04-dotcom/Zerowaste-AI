@@ -1,0 +1,9 @@
+pandas
+streamlit>=1.50
+folium
+streamlit-folium
+scikit-learn
+scipy
+openpyxl
+pytest
+playwright

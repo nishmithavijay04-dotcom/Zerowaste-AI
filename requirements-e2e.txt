@@ -1,0 +1,2 @@
+# Optional: browser end-to-end tests (python -m playwright install chromium; then set ZW_E2E=1 and run pytest tests/e2e)
+playwright
